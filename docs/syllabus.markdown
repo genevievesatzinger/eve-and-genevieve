@@ -5,8 +5,8 @@ permalink: /syllabus/
 ---
 
 - **Instructor**: Alex Godwin
-- **Office**: DMTI 112C
-- **Classroom**: DMTI 121 T 5:30-8pm
+- **Office**: Don Myers 112b
+- **Classroom**: Don Myers 121 T 5:30-8pm
 - **Office Hours**: Schedule a time to meet with me virtually through [Acuity](https://app.acuityscheduling.com/schedule.php?owner=20291508).
 
 ## Coronavirus Policies
